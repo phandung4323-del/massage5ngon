@@ -1,0 +1,6 @@
+{
+  "name": "KOKORO™ - Máy Massage Cổ Vai Gáy 5 Ngón",
+  "description": "Landing page và ứng dụng đặt hàng máy massage cổ vai gáy 5 ngón sinh học mô phỏng bàn tay chườm ấm hồng ngoại KOKORO™.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
